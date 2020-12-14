@@ -1,6 +1,6 @@
-# cBit
+# efBit
 
-创乐博 基于micro:bit 控制器的cBit机器人库 （湖南智宇科教设备有限公司）
+Michael Tsai 基于micro:bit 控制器的efBit機器人庫 （邑阜通訊科技有限公司）
 
 ## License
 
